@@ -4,7 +4,7 @@ resource "aws_instance" "Mynode1" {
       key_name                             = 
       monitoring                           = 
       availability_zone                    = 
-	    private_ip                           =
+      private_ip                           =
       secondary_private_ips                = 
       public_ip                            =
       associate_public_ip_address          = 
